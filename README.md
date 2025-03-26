@@ -98,7 +98,6 @@
 運行主分析腳本：
 
 ```python
-# 導入主模塊
 from sales_analysis import generate_report
 
 # 執行完整分析（使用默認數據文件'Data.csv'）
