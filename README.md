@@ -81,15 +81,15 @@
 專案生成多種可視化圖表以展示分析結果：
 
 ### 銷售趨勢分析
-![銷售趨勢分析](images/sales_trend.png)  
+![銷售趨勢分析](images/sales_trend.png.jpg)  
 *圖1: 2018-2021年度各季度的銷售金額趨勢，展示了明顯的季節性模式和整體成長趨勢。*
 
 ### 產品利潤分析
-![產品利潤分析](images/product_profit.png)  
+![產品利潤分析](images/product_profit.png.jpg)  
 *圖2: 利潤最高的產品類別，複印機、桌子和延長線位列前三。*
 
 ### 地區銷售分析
-![地區銷售分析](images/geo_sales.png)  
+![地區銷售分析](images/geo_sales.png.jpg)  
 *圖3: 歐洲地區的銷售分佈，英國市場貢獻最高利潤。*
 
 ## 未來擴展
